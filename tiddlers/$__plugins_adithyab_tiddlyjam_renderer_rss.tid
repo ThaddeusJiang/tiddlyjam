@@ -16,8 +16,8 @@ type: text/vnd.tiddlywiki
 <$list filter="[tag[$:/plugins/adithyab/tiddlyjam/live]]">
    &lt;item&gt;
       &lt;title&gt;{{!!title}}&lt;/title&gt;
-      &lt;link&gt;<$text text={{$:/plugins/adithyab/tiddlyjam/renderer/baseurl}}/>/<$macrocall $name="tv-get-export-path" title={{!!title}}/>&lt;/link&gt;
-      &lt;guid&gt;<$text text={{$:/plugins/adithyab/tiddlyjam/renderer/baseurl}}/>/<$macrocall $name="tv-get-export-path" title={{!!title}}/>&lt;/guid&gt;
+      &lt;link&gt;<$text text={{$:/AbsoluteBaseUrl}}/>/<$macrocall $name="tv-get-export-path" title={{!!title}}/>&lt;/link&gt;
+      &lt;guid&gt;<$text text={{$:/AbsoluteBaseUrl}}/>/<$macrocall $name="tv-get-export-path" title={{!!title}}/>&lt;/guid&gt;
    &lt;/item&gt;
 </$list>
 &lt;/channel&gt;
