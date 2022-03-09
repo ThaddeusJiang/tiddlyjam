@@ -45,7 +45,7 @@ type: text/vnd.tiddlywiki
   </$wikify>
 
 {{$:/plugins/adithyab/tiddlyjam/renderer/base/footer||$:/plugins/adithyab/tiddlyjam/htmlify}}
-	
+
   `
 </body>
 </html>
