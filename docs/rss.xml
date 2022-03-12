@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-   <title>Example Feed</title>
-   <link>https://thaddeusjiang.com</link>
-   <atom:link href="https://thaddeusjiang.com/rss.xml" rel="self" type="application/rss+xml" />
-   <description>Insert witty or insightful remark here</description>
+   <title>TiddlyJam</title>
+   <link>https://tiddlyjam.com
+</link>
+   <description>Transform your  TiddlyWiki into static websites and blogs. Inspired by JamStack</description>
    <item>
       <title>Why TiddlyJam?</title>
       <link>https://tiddlyjam.com
 /why-tiddlyjam</link>
-      <guid>https://tiddlyjam.com
-/why-tiddlyjam</guid>
-      <pubDate>Sun, 14 March 2021 9:15:42 +09:00</pubDate>
-      <description><![CDATA[this is 
+			<description><![CDATA[this is 
 <div class="container">
     <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4"><p><nav aria-label="main navigation" class="navbar" role="navigation">
         <div class="navbar-brand">
@@ -39,118 +36,17 @@
 </div>     
 
 
-]]></description>			
-   </item>
-
-   <item>
-      <title>index</title>
-      <link>https://tiddlyjam.com
-/index</link>
-      <guid>https://tiddlyjam.com
-/index</guid>
-      <pubDate>Sun, 14 March 2021 9:15:27 +09:00</pubDate>
-      <description><![CDATA[this is 
-
-<section class="section mt-6">
-  <div class="container">
-    <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2">
-      <h1 class="title" style="font-size: 400%;">TiddlyJam</h1>
-      <div class="subtitle">
-        Transform your  <a href="https://tiddlywiki.com/">TiddlyWiki</a> into static websites and blogs. Inspired by <a href="https://jamstack.com">JamStack</a>
-      </div>
-      <span class="buttons">
-        <a class="button is-link" href="https://tiddlyjam.com/wiki">
-          <span class="icon is-small">
-            <i class="fas fa-cloud-download-alt"></i>
-          </span>
-          <span>Install</span>
-        </a>
-        <a class="button" href="https://github.com/adithya-badidey/tiddlyjam">
-          <span class="icon is-small">
-            <i class="fab fa-github"></i>
-          </span>
-          <span>GitHub</span>
-        </a>
-        <a class="button" href="https://github.com/adithya-badidey/tiddlyjam/discussions">
-          <span class="icon is-small">
-            <i class="fas fa-comments"></i>
-          </span>
-          <span>Forum</span>
-        </a>
-      </span>
-			<div>
-			<div class="shield shield-blue">
-            <span><span class="shield-label">~TiddlyWiki</span><span class="shield-status">5.1.22+</span></span>
-          </div><a href="https://tiddlyjam.com/wiki" target="_blank">
-          <div class="shield shield-purple">
-            <span class="shield-label">Release</span><span class="shield-status">0.2.6</span>
-          </div></a>
-			</div>
-    </div>
-  </div>
-  <div>
-    <div class="container mt-6">
-      <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2">
-        
-          <div><div class="block"><h2 class="subtitle"><a class="tc-tiddlylink tc-tiddlylink-resolves" href="./#customizing-your-tiddlyjam-website">Customizing your TiddlyJam Website</a></h2><p></p></div></div><hr>
-        
-          <div><div class="block"><h2 class="subtitle"><a class="tc-tiddlylink tc-tiddlylink-resolves" href="./#getting-started-with-tiddlyjam">Getting Started with TiddlyJam</a></h2><p></p></div></div><hr>
-        
-				
-        
-          <div><div class="block"><h2 class="title is-4"><a class="tc-tiddlylink tc-tiddlylink-resolves" href="./#why-tiddlyjam">Why TiddlyJam?</a></h2><div class="subtitle is-6"></div></div></div><hr>
-        
-      </div>
-    </div>
-  </div>
-</section>
-<style>
-.shield {
-  font-weight: normal;
-  display: inline-block;
-  color: white;
-  font-size: .8em;
-}
-
-.shield .shield-label {
-  background: #555;
-  border-top-left-radius: 4px;
-  border-bottom-left-radius: 4px;
-  padding: 3px 6px;
-}
-
-.shield .shield-status {
-  background: #40ba12;
-  border-top-right-radius: 4px;
-  border-bottom-right-radius: 4px;
-  padding: 3px 6px;
-}
-
-.shield.shield-purple .shield-status {
-  background: #923293;
-}
-
-.shield.shield-red .shield-status {
-  background: #cc5640;
-}
-
-.shield.shield-blue .shield-status {
-  background: #0e7fbf;
-}
-
-</style>
-
-]]></description>			
+]]></description>
+      <pubDate>Sun, 14 March 2021 9:15:42 +09:00</pubDate>
+			<guid>https://tiddlyjam.com
+/why-tiddlyjam</guid>      
    </item>
 
    <item>
       <title>Getting Started with TiddlyJam</title>
       <link>https://tiddlyjam.com
 /getting-started-with-tiddlyjam</link>
-      <guid>https://tiddlyjam.com
-/getting-started-with-tiddlyjam</guid>
-      <pubDate>Sun, 18 April 2021 6:21:27 +09:00</pubDate>
-      <description><![CDATA[this is 
+			<description><![CDATA[this is 
 <div class="container">
     <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4"><p><nav aria-label="main navigation" class="navbar" role="navigation">
         <div class="navbar-brand">
@@ -177,17 +73,17 @@
 </div>     
 
 
-]]></description>			
+]]></description>
+      <pubDate>Sun, 18 April 2021 6:21:27 +09:00</pubDate>
+			<guid>https://tiddlyjam.com
+/getting-started-with-tiddlyjam</guid>      
    </item>
 
    <item>
       <title>Customizing your TiddlyJam Website</title>
       <link>https://tiddlyjam.com
 /customizing-your-tiddlyjam-website</link>
-      <guid>https://tiddlyjam.com
-/customizing-your-tiddlyjam-website</guid>
-      <pubDate>Sun, 18 April 2021 6:21:30 +09:00</pubDate>
-      <description><![CDATA[this is 
+			<description><![CDATA[this is 
 <div class="container">
     <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4"><p><nav aria-label="main navigation" class="navbar" role="navigation">
         <div class="navbar-brand">
@@ -214,7 +110,10 @@
 </div>     
 
 
-]]></description>			
+]]></description>
+      <pubDate>Sun, 18 April 2021 6:21:30 +09:00</pubDate>
+			<guid>https://tiddlyjam.com
+/customizing-your-tiddlyjam-website</guid>      
    </item>
 
 </channel>
