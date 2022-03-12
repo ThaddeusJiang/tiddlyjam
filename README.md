@@ -1,8 +1,8 @@
 # TiddlyJam
 
-[![GitHub license](https://img.shields.io/github/license/adithya-badidey/tiddlyjam)](https://github.com/adithya-badidey/tiddlyjam/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ThaddeusJiang/tiddlyjam)](https://github.com/ThaddeusJiang/tiddlyjam/blob/main/LICENSE)
 
-TiddlyJam is a CMS and website renderer for TiddlyWiki. Its aim is to render and deploy full-featured, media-rich websites right from the wiki. Visit the website at https://tiddlyjam.com
+TiddlyJam is a CMS and website renderer for TiddlyWiki. Its aim is to render and deploy full-featured, media-rich websites right from the wiki. Visit the website at https://thaddeusjiang.github.io/tiddlyjam
 
 ## Features
 - Content Management System(CMS)
@@ -14,10 +14,10 @@ TiddlyJam is a CMS and website renderer for TiddlyWiki. Its aim is to render and
 - SEO ready
 
 ## How to use:
-Visit https://tiddlyjam.com/wiki for instructions
+Visit https://thaddeusjiang.github.io/tiddlyjam/wiki for instructions
 
 ## Example Websites:
-- https://tiddlyjam.com
+- https://thaddeusjiang.github.io/tiddlyjam
 - https://adithyab.in
 
 ## Roadmap
@@ -28,9 +28,9 @@ Visit https://tiddlyjam.com/wiki for instructions
 - [ ] Support for themes/plugins
 - [ ] Direct deploy of static website to Github Pages
 
-For help/discussion, please join us on Github discusions: https://github.com/adithya-badidey/tiddlyjam/discussions
+For help/discussion, please join us on Github discusions: https://github.com/ThaddeusJiang/tiddlyjam/discussions
 
-Please report bugs at https://github.com/adithya-badidey/tiddlyjam/issues 
+Please report bugs at https://github.com/ThaddeusJiang/tiddlyjam/issues
 
 ## Thanks and Acknowledgements
 This has been possible due to the previous work of numerous people. In particular:
