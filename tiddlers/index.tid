@@ -5,7 +5,7 @@ modified: 20210417212600397
 modifier: Adithya_
 name: Homepage
 published: 20210314001527357
-tags: $:/plugins/adithyab/tiddlyjam/page $:/plugins/adithyab/tiddlyjam/internals $:/plugins/adithyab/tiddlyjam/live tiddlyjam.com
+tags: $:/plugins/adithyab/tiddlyjam/page $:/plugins/adithyab/tiddlyjam/internals $:/plugins/adithyab/tiddlyjam/live thaddeusjiang.github.io/tiddlyjam
 title: index
 type: text/vnd.tiddlywiki
 
@@ -17,19 +17,19 @@ type: text/vnd.tiddlywiki
         {{$:/SiteSubtitle}}
       </div>
       <span class="buttons">
-        <a class="button is-link" href="https://tiddlyjam.com/wiki">
+        <a class="button is-link" href="https://thaddeusjiang.github.io/tiddlyjam/wiki">
           <span class="icon is-small">
             <i class="fas fa-cloud-download-alt"></i>
           </span>
           <span>Install</span>
         </a>
-        <a class="button" href="https://github.com/adithya-badidey/tiddlyjam">
+        <a class="button" href="https://github.com/ThaddeusJiang/tiddlyjam">
           <span class="icon is-small">
             <i class="fab fa-github"></i>
           </span>
           <span>GitHub</span>
         </a>
-        <a class="button" href="https://github.com/adithya-badidey/tiddlyjam/discussions">
+        <a class="button" href="https://github.com/ThaddeusJiang/tiddlyjam/discussions">
           <span class="icon is-small">
             <i class="fas fa-comments"></i>
           </span>
@@ -39,7 +39,7 @@ type: text/vnd.tiddlywiki
 			<div>
 			<div class="shield shield-blue">
             <span><span class="shield-label">~TiddlyWiki</span><span class="shield-status">5.1.22+</span></span>
-          </div><a href="https://tiddlyjam.com/wiki"
+          </div><a href="https://thaddeusjiang.github.io/tiddlyjam/wiki"
                target="_blank">
           <div class="shield shield-purple">
             <span class="shield-label">Release</span><span class="shield-status">{{$:/plugins/adithyab/tiddlyjam!!version}}</span>
@@ -53,7 +53,7 @@ type: text/vnd.tiddlywiki
         <$list filter="[tag[$:/plugins/adithyab/tiddlyjam/live]tag[blog]!sort[published]limit[2]]">
           {{||$:/plugins/adithyab/tiddlyjam/renderer/templates/blog_verbose}}
         </$list>
-				
+
         <$list filter="[tag[$:/plugins/adithyab/tiddlyjam/live]tag[blog]!sort[published]rest[2]]">
           {{||$:/plugins/adithyab/tiddlyjam/renderer/templates/blog_compact}}
         </$list>

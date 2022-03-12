@@ -1,6 +1,6 @@
 created: 20210417202142352
 modified: 20210417212721734
-tags: 
+tags:
 title: ~TiddlyJam
 type: text/vnd.tiddlywiki
 
@@ -8,10 +8,10 @@ type: text/vnd.tiddlywiki
 <span>
 <<shield label:~TiddlyWiki status:5.1.22+ colour:blue>>
 </span>
-<a href="https://tiddlyjam.com/wiki" target="_blank">
+<a href="https://thaddeusjiang.github.io/tiddlyjam/wiki" target="_blank">
 <<shield label:Release status:{{$:/plugins/adithyab/tiddlyjam!!version}} colour:purple>>
 </a>
-<a href="https://github.com/adithya-badidey/tiddlyjam" target="_blank">
+<a href="https://github.com/ThaddeusJiang/tiddlyjam" target="_blank">
 <<shield label:GitHub status:tiddlyjam colour:yellow>>
 </a>
 </div>

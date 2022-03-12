@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
    <url>
-      <loc>https://thaddeusjiang.com/customizing-your-tiddlyjam-website</loc>
+      <loc>https://thaddeusjiang.com/Customizing-your-TiddlyJam-Website</loc>
       <lastmod>2021-04-18</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://thaddeusjiang.com/getting-started-with-tiddlyjam</loc>
+      <loc>https://thaddeusjiang.com/Getting-Started-with-TiddlyJam</loc>
       <lastmod>2021-04-18</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://thaddeusjiang.com/why-tiddlyjam</loc>
+      <loc>https://thaddeusjiang.com/TiddlyJam-URL-support–zhong-wen-pin-yin</loc>
+      <lastmod>2022-03-12</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://thaddeusjiang.com/Why-TiddlyJam-</loc>
       <lastmod>2021-03-14</lastmod>
       <changefreq>monthly</changefreq>
    </url>
