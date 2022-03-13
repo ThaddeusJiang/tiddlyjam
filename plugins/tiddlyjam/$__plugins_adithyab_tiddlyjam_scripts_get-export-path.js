@@ -897,6 +897,6 @@ Run the macro
 */
   exports.run = function (title) {
     var pinyin = new Pinyin();
-    return pinyin.getFullChars(title);
+    return pinyin.getFullChars(title).toLocaleLowerCase();
   };
 })();
