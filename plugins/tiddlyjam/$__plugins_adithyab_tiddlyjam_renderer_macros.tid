@@ -1,6 +1,5 @@
 created: 20200806162755767
-modified: 20210313235830114
-revision: 2
+modified: 20220313010324974
 tags: $:/plugins/adithyab/tiddlyjam/internals $:/tags/Macro
 title: $:/plugins/adithyab/tiddlyjam/renderer/macros
 type: text/vnd.tiddlywiki
@@ -31,7 +30,7 @@ type: text/vnd.tiddlywiki
 \end
 
 \define get_absolute_url()
-<$wikify name="url" text=<<get_relative_url>>><$text text={{{ [<url>addprefix{$:/plugins/adithyab/tiddlyjam/renderer/baseurl}] }}}/></$wikify>
+<$text text={{$:/AbsoluteBaseUrl}}/>/<$macrocall $name="tv-get-export-path" title={{!!title}}/>
 \end
 
 \define get_page_uniqueid()

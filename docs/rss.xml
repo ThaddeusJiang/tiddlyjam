@@ -2,18 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    <title>TiddlyJam</title>
-   <link>https://thaddeusjiang.github.io/tiddlyjam
-</link>
+   <link>https://thaddeusjiang.github.io/tiddlyjam</link>
    <description>Transform your  TiddlyWiki into static websites and blogs. Inspired by JamStack</description>
    <item>
       <title>Why TiddlyJam?</title>
-      <link>https://thaddeusjiang.github.io/tiddlyjam
-/Why-TiddlyJam-</link>
+      <link>https://thaddeusjiang.github.io/tiddlyjam/why-tiddlyjam-</link>
 			<description><![CDATA[this is 
 <div class="container">
     <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4"><p><nav aria-label="main navigation" class="navbar" role="navigation">
         <div class="navbar-brand">
-            <a class="navbar-item has-background-dark has-text-white	title is-3" href="https://thaddeusjiang.com">
+            <a class="navbar-item has-background-dark has-text-white	title is-3" href="./">
        TiddlyJam
             </a>
         </div>
@@ -38,19 +36,17 @@
 
 ]]></description>
       <pubDate>Sun, 14 March 2021 9:15:42 +09:00</pubDate>
-			<guid>https://thaddeusjiang.github.io/tiddlyjam
-/Why-TiddlyJam-</guid>      
+			<guid>https://thaddeusjiang.github.io/tiddlyjam/why-tiddlyjam-</guid>      
    </item>
 
    <item>
       <title>TiddlyJam URL support 中文拼音</title>
-      <link>https://thaddeusjiang.github.io/tiddlyjam
-/TiddlyJam-URL-support–zhong-wen-pin-yin</link>
+      <link>https://thaddeusjiang.github.io/tiddlyjam/tiddlyjam-url-support–zhong-wen-pin-yin</link>
 			<description><![CDATA[this is 
 <div class="container">
     <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4"><p><nav aria-label="main navigation" class="navbar" role="navigation">
         <div class="navbar-brand">
-            <a class="navbar-item has-background-dark has-text-white	title is-3" href="https://thaddeusjiang.com">
+            <a class="navbar-item has-background-dark has-text-white	title is-3" href="./">
        TiddlyJam
             </a>
         </div>
@@ -65,7 +61,7 @@
             <h1 class="title">TiddlyJam URL support 中文拼音</h1>
             <hr>
 
-            <p>Hi Chinese, TiddlyJam URL support 中文拼音.</p><p>The URL of this page will be <code>/TiddlyJam-URL-support–zhong-wen-pin-yin</code></p>
+            <p>Hi Chinese, TiddlyJam URL support 中文拼音.</p><p>The URL of this page will be <code>/tiddlyjam-url-support-–zhong-wen-pin-yin</code></p>
           </div>
       </div>
       <hr>
@@ -75,19 +71,17 @@
 
 ]]></description>
       <pubDate>Sat, 12 March 2022 22:4:14 +09:00</pubDate>
-			<guid>https://thaddeusjiang.github.io/tiddlyjam
-/TiddlyJam-URL-support–zhong-wen-pin-yin</guid>      
+			<guid>https://thaddeusjiang.github.io/tiddlyjam/tiddlyjam-url-support–zhong-wen-pin-yin</guid>      
    </item>
 
    <item>
       <title>Getting Started with TiddlyJam</title>
-      <link>https://thaddeusjiang.github.io/tiddlyjam
-/Getting-Started-with-TiddlyJam</link>
+      <link>https://thaddeusjiang.github.io/tiddlyjam/getting-started-with-tiddlyjam</link>
 			<description><![CDATA[this is 
 <div class="container">
     <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4"><p><nav aria-label="main navigation" class="navbar" role="navigation">
         <div class="navbar-brand">
-            <a class="navbar-item has-background-dark has-text-white	title is-3" href="https://thaddeusjiang.com">
+            <a class="navbar-item has-background-dark has-text-white	title is-3" href="./">
        TiddlyJam
             </a>
         </div>
@@ -112,19 +106,17 @@
 
 ]]></description>
       <pubDate>Sun, 18 April 2021 6:21:27 +09:00</pubDate>
-			<guid>https://thaddeusjiang.github.io/tiddlyjam
-/Getting-Started-with-TiddlyJam</guid>      
+			<guid>https://thaddeusjiang.github.io/tiddlyjam/getting-started-with-tiddlyjam</guid>      
    </item>
 
    <item>
       <title>Customizing your TiddlyJam Website</title>
-      <link>https://thaddeusjiang.github.io/tiddlyjam
-/Customizing-your-TiddlyJam-Website</link>
+      <link>https://thaddeusjiang.github.io/tiddlyjam/customizing-your-tiddlyjam-website</link>
 			<description><![CDATA[this is 
 <div class="container">
     <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4"><p><nav aria-label="main navigation" class="navbar" role="navigation">
         <div class="navbar-brand">
-            <a class="navbar-item has-background-dark has-text-white	title is-3" href="https://thaddeusjiang.com">
+            <a class="navbar-item has-background-dark has-text-white	title is-3" href="./">
        TiddlyJam
             </a>
         </div>
@@ -149,8 +141,7 @@
 
 ]]></description>
       <pubDate>Sun, 18 April 2021 6:21:30 +09:00</pubDate>
-			<guid>https://thaddeusjiang.github.io/tiddlyjam
-/Customizing-your-TiddlyJam-Website</guid>      
+			<guid>https://thaddeusjiang.github.io/tiddlyjam/customizing-your-tiddlyjam-website</guid>      
    </item>
 
 </channel>
