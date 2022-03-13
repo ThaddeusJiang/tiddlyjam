@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   <title>TiddlyJam</title>
+   <link>https://thaddeusjiang.github.io/tiddlyjam
+</link>
+   <description>Transform your  TiddlyWiki into static websites and blogs. Inspired by JamStack</description>
+   <item>
+      <title>Why TiddlyJam?</title>
+      <link>https://thaddeusjiang.github.io/tiddlyjam
+/why-tiddlyjam-</link>
+			<description><![CDATA[this is 
+<div class="container">
+    <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4"><p><nav aria-label="main navigation" class="navbar" role="navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item has-background-dark has-text-white	title is-3" href="https://thaddeusjiang.com">
+       TiddlyJam
+            </a>
+        </div>
+     </nav></p><p><p class="mt-4">Transform your  <a href="https://tiddlywiki.com/">TiddlyWiki</a> into static websites and blogs. Inspired by <a href="https://jamstack.com">JamStack</a></p></p></div>
+  </div>
+      
+
+<div class="container mt-5">
+  <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2">
+      <div>
+          <div class="block content blog">
+            <h1 class="title">Why TiddlyJam?</h1>
+            <hr>
+
+            <p>Why does this exist? Why did someone feel the need to make another static website generator?</p><p>I started using <a class="tc-tiddlylink-external" href="https://tiddlywiki.com" rel="noopener noreferrer" target="_blank">TiddlyWiki</a> more than 5 years back as a note-keeping device. I found myself enamoured (still am) by its elegance (its a <a class="tc-tiddlylink-external" href="https://en.wikipedia.org/wiki/Quine_(computing)" rel="noopener noreferrer" target="_blank">quine</a>!). </p><p>In 2020, during the lockdowns, I wanted to create a website/blog for myself and thought - TiddlyWiki has a great templating engine - why not create one using that? Thanks to several great resources like the <a class="tc-tiddlylink-external" href="https://groups.google.com/g/tiddlywiki" rel="noopener noreferrer" target="_blank">Tiddlywiki Google group</a>, <a class="tc-tiddlylink-external" href="https://www.didaxy.com/" rel="noopener noreferrer" target="_blank">https://www.didaxy.com/</a> and <a class="tc-tiddlylink-external" href="https://nesslabs.com/" rel="noopener noreferrer" target="_blank">https://nesslabs.com/</a>, I was able to create my website at <a class="tc-tiddlylink-external" href="https://adithyab.in" rel="noopener noreferrer" target="_blank">https://adithyab.in</a> in a fairly short time. </p><p>Keeping with the spirit of TiddlyWiki, I am open-sourcing my work in TiddlyJam. Now, its yours too :)</p><p>- Adithya</p>
+          </div>
+      </div>
+      <hr>
+  </div>
+</div>     
+
+
+]]></description>
+      <pubDate>Sun, 14 March 2021 9:15:42 +09:00</pubDate>
+			<guid>https://thaddeusjiang.github.io/tiddlyjam
+/why-tiddlyjam-</guid>      
+   </item>
+
+   <item>
+      <title>TiddlyJam URL support 中文拼音</title>
+      <link>https://thaddeusjiang.github.io/tiddlyjam
+/tiddlyjam-url-support–zhong-wen-pin-yin</link>
+			<description><![CDATA[this is 
+<div class="container">
+    <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4"><p><nav aria-label="main navigation" class="navbar" role="navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item has-background-dark has-text-white	title is-3" href="https://thaddeusjiang.com">
+       TiddlyJam
+            </a>
+        </div>
+     </nav></p><p><p class="mt-4">Transform your  <a href="https://tiddlywiki.com/">TiddlyWiki</a> into static websites and blogs. Inspired by <a href="https://jamstack.com">JamStack</a></p></p></div>
+  </div>
+      
+
+<div class="container mt-5">
+  <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2">
+      <div>
+          <div class="block content blog">
+            <h1 class="title">TiddlyJam URL support 中文拼音</h1>
+            <hr>
+
+            <p>Hi Chinese, TiddlyJam URL support 中文拼音.</p><p>The URL of this page will be <code>/tiddlyjam-url-support-–zhong-wen-pin-yin</code></p>
+          </div>
+      </div>
+      <hr>
+  </div>
+</div>     
+
+
+]]></description>
+      <pubDate>Sat, 12 March 2022 22:4:14 +09:00</pubDate>
+			<guid>https://thaddeusjiang.github.io/tiddlyjam
+/tiddlyjam-url-support–zhong-wen-pin-yin</guid>      
+   </item>
+
+   <item>
+      <title>Getting Started with TiddlyJam</title>
+      <link>https://thaddeusjiang.github.io/tiddlyjam
+/getting-started-with-tiddlyjam</link>
+			<description><![CDATA[this is 
+<div class="container">
+    <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4"><p><nav aria-label="main navigation" class="navbar" role="navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item has-background-dark has-text-white	title is-3" href="https://thaddeusjiang.com">
+       TiddlyJam
+            </a>
+        </div>
+     </nav></p><p><p class="mt-4">Transform your  <a href="https://tiddlywiki.com/">TiddlyWiki</a> into static websites and blogs. Inspired by <a href="https://jamstack.com">JamStack</a></p></p></div>
+  </div>
+      
+
+<div class="container mt-5">
+  <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2">
+      <div>
+          <div class="block content blog">
+            <h1 class="title">Getting Started with TiddlyJam</h1>
+            <hr>
+
+            <p>TiddlyJam is designed to make it easy to export a simple blog from TW5 while providing the tools to make very complex websites.</p><h2 class="">How to setup</h2><ul><li>Make sure TiddlyWiki on NodeJS is installed and upgraded to the latest version as instructed by <a class="tc-tiddlylink-external" href="https://tiddlywiki.com/#GettingStarted%20-%20Node.js" rel="noopener noreferrer" target="_blank">https://tiddlywiki.com/#GettingStarted%20-%20Node.js</a>.<ul><li><code>tiddlywiki --version</code> should print <code>5.1.23</code></li><li>TiddlyJam needs the nodejs installation of TiddlyWiki to work properly (for now). Checkout the github repo (<a class="tc-tiddlylink-external" href="https://github.com/ThaddeusJiang/tiddlyjam" rel="noopener noreferrer" target="_blank">https://github.com/ThaddeusJiang/tiddlyjam</a>) for more details on future plans.</li></ul></li><li>Open the local folder containing the wiki in file explorer:<ul><li>Replace your <code>tiddlywiki.info</code> file with the one here: <a class="tc-tiddlylink-external" href="https://github.com/ThaddeusJiang/tiddlyjam/blob/main/tiddlywiki.info" rel="noopener noreferrer" target="_blank">https://github.com/ThaddeusJiang/tiddlyjam/blob/main/tiddlywiki.info</a></li></ul></li><li>Open your wiki in the browser and import the plugin from <a class="tc-tiddlylink-external" href="https://thaddeusjiang.github.io/tiddlyjam/wiki" rel="noopener noreferrer" target="_blank">https://thaddeusjiang.github.io/tiddlyjam/wiki</a> (you can drag and drop it into your wiki)<ul><li>In your wiki, <code>TiddlyJam Dashboard</code> should be now available to manage your website.</li></ul></li></ul><h2 class="">How to Export</h2><ul><li>Open the command line, navigate to the local folder of your TW5 and run: <code>tiddlywiki --build tiddlyjam</code></li><li>The <code>output</code> folder should contain the html files. It will be rendered using the default theme - the same one as <a class="tc-tiddlylink-external" href="https://thaddeusjiang.github.io/tiddlyjam" rel="noopener noreferrer" target="_blank">https://thaddeusjiang.github.io/tiddlyjam</a><ul><li>This folder can be hosted on your hosting service and viola - the website is ready.</li><li><strong>Note</strong>: Checkout thaddeusjiang.github.io/tiddlyjam's <a class="tc-tiddlylink-external" href="https://github.com/ThaddeusJiang/tiddlyjam/blob/main/build-tw" rel="noopener noreferrer" target="_blank">build process</a> for inspiration.</li></ul></li></ul>
+          </div>
+      </div>
+      <hr>
+  </div>
+</div>     
+
+
+]]></description>
+      <pubDate>Sun, 18 April 2021 6:21:27 +09:00</pubDate>
+			<guid>https://thaddeusjiang.github.io/tiddlyjam
+/getting-started-with-tiddlyjam</guid>      
+   </item>
+
+   <item>
+      <title>Customizing your TiddlyJam Website</title>
+      <link>https://thaddeusjiang.github.io/tiddlyjam
+/customizing-your-tiddlyjam-website</link>
+			<description><![CDATA[this is 
+<div class="container">
+    <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4"><p><nav aria-label="main navigation" class="navbar" role="navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item has-background-dark has-text-white	title is-3" href="https://thaddeusjiang.com">
+       TiddlyJam
+            </a>
+        </div>
+     </nav></p><p><p class="mt-4">Transform your  <a href="https://tiddlywiki.com/">TiddlyWiki</a> into static websites and blogs. Inspired by <a href="https://jamstack.com">JamStack</a></p></p></div>
+  </div>
+      
+
+<div class="container mt-5">
+  <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2">
+      <div>
+          <div class="block content blog">
+            <h1 class="title">Customizing your TiddlyJam Website</h1>
+            <hr>
+
+            <p>After installing the plugin from <a class="tc-tiddlylink-external" href="https://thaddeusjiang.github.io/tiddlyjam/wiki" rel="noopener noreferrer" target="_blank">https://thaddeusjiang.github.io/tiddlyjam/wiki</a>, you can get started on customizing your website. Keep in mind that you will have to export to see the changes.</p><h2 class="">Publishing blogs</h2><ul><li>Just tag any tiddler as <code>blog</code> and it will become visible under the 'Blog' tab in the <code>TiddlyJam Dashboard</code>.</li><li>The tiddlers tagged 'blog' will be exported using the default 'blog' content template.</li><li>To publish the blog, click on its publish button.<ul><li>After you publish any blog, it will become visible the next time you build your website.</li></ul></li></ul><h2 class="">Publishing pages</h2><ul><li>Just tag any tiddler as <code>$:/plugins/adithyab/tiddlyjam/page</code> and it will become visible under the 'Pages' tab in the <code>TiddlyJam Dashboard</code>.</li><li>The 'page' tag doesnt have a content template, so it will need some custom html work to get working properly.<ul><li>See the <code>index</code> tiddler for reference on how a page is built.</li></ul></li><li>To publish the page, click on its publish button.<ul><li>After you publish any page, it will become visible the next time you build your website.</li></ul></li><li><strong>Request for comment</strong>: Should I change the tag for pages from <code>$:/plugins/adithyab/tiddlyjam/page</code> to <code>page</code>? Comments here: <a class="tc-tiddlylink-external" href="https://github.com/ThaddeusJiang/tiddlyjam/discussions" rel="noopener noreferrer" target="_blank">https://github.com/ThaddeusJiang/tiddlyjam/discussions</a></li></ul><h2 class="">Customizing the theme</h2><p>TiddlyJam uses the pure CSS library <a class="tc-tiddlylink-external" href="https://bulma.io/" rel="noopener noreferrer" target="_blank">Bulma</a> by default. The simplest way to customize the look and feel of your website is to download the css/sass from the Bulma website and customize it. Once you're done customizing, replace the <code>tiddlyjam.min.css</code> tiddler with your version.</p><p>Additionally, any css files that are tagged <code>$:/plugins/adithyab/tiddlyjam/css</code> will be automatically exported and linked in the header of the exported static html.</p><h2 class="">Setting your absolute baseurl with domain</h2><p>TiddlyJam has support RSS 2.0, it need full URL with domain. Just create a tiddler <code>$:/AbsoluteBaseUrl</code>.</p>
+          </div>
+      </div>
+      <hr>
+  </div>
+</div>     
+
+
+]]></description>
+      <pubDate>Sun, 18 April 2021 6:21:30 +09:00</pubDate>
+			<guid>https://thaddeusjiang.github.io/tiddlyjam
+/customizing-your-tiddlyjam-website</guid>      
+   </item>
+
+</channel>
+</rss>
