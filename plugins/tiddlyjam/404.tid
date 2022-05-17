@@ -1,9 +1,8 @@
 created: 20200814080720075
-description: A very generic 404 page.
-modified: 20210314023550294
+description: Page not found
+modified: 20220517091257198
 name: Page not found
 published: 20200911141413491
-revision: 0
 tags: $:/plugins/adithyab/tiddlyjam/page $:/plugins/adithyab/tiddlyjam/live $:/plugins/adithyab/tiddlyjam/internals
 title: 404
 type: text/vnd.tiddlywiki
@@ -11,7 +10,8 @@ type: text/vnd.tiddlywiki
 <section class="section mt-6">
     <div class="container">
         <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2">
-            <h1 class="title" style="font-size: 400%;">Page not found</h1>
+            <h1 class="title">Page not found</h1>
+            [img[404.png]]
             <div>
                 <a href={{$:/plugins/adithyab/tiddlyjam/renderer/baseurl}}>Back home?</a>
             </div>
