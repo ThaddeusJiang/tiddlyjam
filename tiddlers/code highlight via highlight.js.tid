@@ -1,0 +1,23 @@
+created: 20240112020539219
+creator: ThaddeusJiang
+modified: 20240112021857045
+modifier: ThaddeusJiang
+published: 20240112020748228
+tags: blog $:/plugins/adithyab/tiddlyjam/live
+title: code highlight via highlight.js
+type: text/vnd.tiddlywiki
+
+TiddlyJam support code highlight, thanks [[highlight.js|https://highlightjs.org/]]
+
+```ts
+// .ts
+interface Account {
+  id: number
+  displayName: string
+  version: 1
+}
+ 
+function welcome(user: Account) {
+  console.log(user.id)
+}
+```
