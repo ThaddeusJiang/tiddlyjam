@@ -1,0 +1,14 @@
+created: 20240708130559970
+modified: 20240708132046084
+published: 20240708130721109
+tags: blog $:/plugins/adithyab/tiddlyjam/live feature
+title: TiddlyJam automatically Dark mode
+type: text/vnd.tiddlywiki
+
+TiddlyJam now automatically switches between dark mode and light mode, so you no longer have to worry about sudden white screens blinding you or straining your eyes to read content on a dark screen.
+
+{{dark-mode-demo.mp4}}
+
+
+
+

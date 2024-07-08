@@ -1,11 +1,11 @@
 created: 20200728102956586
 creator: Adithya_
 description: A static generator for TiddlyWiki. Inspired by JamStack.
-modified: 20220313023216460
+modified: 20240708125530825
 modifier: Adithya_
-name: Homepage
+name: 
 published: 20210314001527357
-tags: $:/plugins/adithyab/tiddlyjam/page $:/plugins/adithyab/tiddlyjam/internals $:/plugins/adithyab/tiddlyjam/live thaddeusjiang.github.io/tiddlyjam
+tags: $:/plugins/adithyab/tiddlyjam/page $:/plugins/adithyab/tiddlyjam/internals $:/plugins/adithyab/tiddlyjam/live
 title: index
 type: text/vnd.tiddlywiki
 

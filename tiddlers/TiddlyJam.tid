@@ -1,7 +1,7 @@
 created: 20210417202142352
-modified: 20210417212721734
-tags:
-title: ~TiddlyJam
+modified: 20240708132018481
+tags: 
+title: TiddlyJam
 type: text/vnd.tiddlywiki
 
 <div>
@@ -33,6 +33,14 @@ Transform your TiddlyWiki into static websites and blogs. Inspired by JamStack
 !! How-Tos
 <ul>
 <$list filter="[tag[howto]sort[published]]">
+<li><h3><$link/></h3></li>
+<dl><<get_description>></dl>
+</$list>
+</ul>
+
+!! Features
+<ul>
+<$list filter="[tag[feature]sort[published]]">
 <li><h3><$link/></h3></li>
 <dl><<get_description>></dl>
 </$list>
