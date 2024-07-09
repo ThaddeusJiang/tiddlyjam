@@ -1,10 +1,10 @@
 created: 20240112020539219
 creator: ThaddeusJiang
-modified: 20240112021857045
+modified: 20240708132057022
 modifier: ThaddeusJiang
 published: 20240112020748228
-tags: blog $:/plugins/adithyab/tiddlyjam/live
-title: code highlight via highlight.js
+tags: blog $:/plugins/adithyab/tiddlyjam/live feature
+title: Code highlight via highlight.js
 type: text/vnd.tiddlywiki
 
 TiddlyJam support code highlight, thanks [[highlight.js|https://highlightjs.org/]]

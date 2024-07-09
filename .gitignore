@@ -2,3 +2,6 @@
 .DS_Store
 output
 docs
+$__StoryList*
+$__StoryList.tid
+$__Import*.tid

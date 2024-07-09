@@ -1,5 +1,5 @@
 created: 20210314161116928
-modified: 20210417213517665
+modified: 20240708132027356
 published: 20210417212127611
 tags: blog howto $:/plugins/adithyab/tiddlyjam/live
 title: Getting Started with TiddlyJam
@@ -20,4 +20,4 @@ TiddlyJam is designed to make it easy to export a simple blog from TW5 while pro
 *Open the command line, navigate to the local folder of your TW5 and run: `tiddlywiki --build tiddlyjam`
 * The `output` folder should contain the html files. It will be rendered using the default theme - the same one as [[https://thaddeusjiang.github.io/tiddlyjam]]
 ** This folder can be hosted on your hosting service and viola - the website is ready.
-** ''Note'': Checkout thaddeusjiang.github.io/tiddlyjam's [[build process|https://github.com/ThaddeusJiang/tiddlyjam/blob/main/build-tw]] for inspiration.
+** ''Note'': Checkout thaddeusjiang.github.io/tiddlyjam's [[build process|https://github.com/ThaddeusJiang/tiddlyjam/blob/main/build]] for inspiration.
