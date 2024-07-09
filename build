@@ -8,3 +8,5 @@ cp ./output/index.html ./docs/wiki.html
 
 tiddlywiki --build tiddlyjam
 mv ./output/* ./docs/
+
+cp .nojekyll ./docs/
