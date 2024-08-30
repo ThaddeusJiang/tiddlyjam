@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>.//code-highlight-via-highlight-js</loc>
+      <lastmod>2024-07-08</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>.//customizing-your-tiddlyjam-website</loc>
+      <lastmod>2021-04-18</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>.//getting-started-with-tiddlyjam</loc>
+      <lastmod>2024-07-08</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>.//index</loc>
+      <lastmod>2024-07-08</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>.//tiddlyjam-automatically-dark-mode</loc>
+      <lastmod>2024-07-08</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>.//tiddlyjam-support-zhong-wen-pin-yin-url</loc>
+      <lastmod>2024-07-08</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>.//why-tiddlyjam</loc>
+      <lastmod>2021-03-14</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+</urlset>
