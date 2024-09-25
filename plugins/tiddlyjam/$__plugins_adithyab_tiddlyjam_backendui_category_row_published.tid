@@ -5,7 +5,7 @@ tags: $:/plugins/adithyab/tiddlyjam/backendui
 title: $:/plugins/adithyab/tiddlyjam/backendui/category/row/published
 type: text/vnd.tiddlywiki
 
-Published on <$view field="published" format="date" template="DDth mmm YYYY"/>.
+Published on <$view field="published" format="date" template="YYYY-0MM-0DD"/>.
 <$fieldmangler>
 <$button message="tm-remove-tag" param="$:/plugins/adithyab/tiddlyjam/live">
 ×

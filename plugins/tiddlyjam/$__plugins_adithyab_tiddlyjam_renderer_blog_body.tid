@@ -6,23 +6,19 @@ tags: $:/plugins/adithyab/tiddlyjam/internals
 title: $:/plugins/adithyab/tiddlyjam/renderer/blog/body
 type: text/vnd.tiddlywiki
 
-{{$:/plugins/adithyab/tiddlyjam/renderer/base/header}}      
+{{$:/plugins/adithyab/tiddlyjam/renderer/blog/header}}
 
 <div class="container mt-5">
   <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2">
-      <div>
-          <div class="block content blog">
-            <h1 class="title"><$view field="title" /></h1>
-            <hr />
-
-            <$list filter="[all[current]]">
-
-            <$transclude />
-
-            </$list>
-          </div>
-      </div>
+    <div class="block content blog">
+      <h1><<get_display_name>></h1>
       <hr />
-  </div>
-</div>     
 
+      <$list filter="[all[current]]">
+
+        <$transclude />
+
+      </$list>
+    </div>
+  </div>
+</div>

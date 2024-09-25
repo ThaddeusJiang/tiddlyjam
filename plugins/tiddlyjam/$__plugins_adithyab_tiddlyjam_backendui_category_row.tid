@@ -13,9 +13,9 @@ type: text/vnd.tiddlywiki
         <$link>
           <<get_display_name>>
         </$link>
-    </h3> - 
+    </h3> -
     <span class="rowitem-modified">
-      <$view field="modified" format="date" template="DDth mmm YYYY" />
+      <$view field="modified" format="date" template="YYYY-0MM-0DD" />
     </span>
     <p class="rowitem-description">
         <<get_description>>

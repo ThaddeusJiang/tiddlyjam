@@ -17,9 +17,9 @@ type: text/vnd.tiddlywiki
    &lt;item&gt;
       &lt;title&gt;{{!!title}}&lt;/title&gt;
       &lt;link&gt;<$text text={{$:/AbsoluteBaseUrl}}/>/<$macrocall $name="tv-get-export-path" title={{!!title}}/>&lt;/link&gt;
-			&lt;description&gt;&lt;![CDATA[this is <$wikify name="output" text={{$:/plugins/adithyab/tiddlyjam/renderer/base/converter}} mode="inline" output="html"><$text text=<<output>>/></$wikify>]]&gt;&lt;/description&gt;
+			&lt;description&gt;&lt;![CDATA[<$wikify name="output" text={{$:/plugins/adithyab/tiddlyjam/renderer/rss/converter}} mode="inline" output="html"><$text text=<<output>>/></$wikify>]]&gt;&lt;/description&gt;
       &lt;pubDate&gt;<$list filter="[{!!published}is[blank]then{!!created}else{!!published}]"><$view field="title" format="date" template="ddd, DD MMM YYYY hh:mm:ss TZD" /></$list>&lt;/pubDate&gt;
-			&lt;guid&gt;<$text text={{$:/AbsoluteBaseUrl}}/>/<$macrocall $name="tv-get-export-path" title={{!!title}}/>&lt;/guid&gt;      
+			&lt;guid&gt;<$text text={{$:/AbsoluteBaseUrl}}/>/<$macrocall $name="tv-get-export-path" title={{!!title}}/>&lt;/guid&gt;
    &lt;/item&gt;
 </$list>
 &lt;/channel&gt;

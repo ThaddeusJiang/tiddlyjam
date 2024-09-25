@@ -1,0 +1,22 @@
+created: 20200728151423521
+creator: Adithya_
+modified: 20210705123722374
+modifier: Adithya_
+tags: $:/plugins/adithyab/tiddlyjam/internals
+title: $:/plugins/adithyab/tiddlyjam/renderer/blog/header
+type: text/vnd.tiddlywiki
+
+<div class="container">
+  <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4">
+
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+          <a class="navbar-item has-background-dark has-text-white	title is-3" href={{$:/plugins/adithyab/tiddlyjam/renderer/baseurl}} >
+            {{$:/SiteTitle}}
+          </a>
+      </div>
+    </nav>
+
+    <p class="mt-4">{{$:/SiteSubtitle}}</p>
+  </div>
+</div>

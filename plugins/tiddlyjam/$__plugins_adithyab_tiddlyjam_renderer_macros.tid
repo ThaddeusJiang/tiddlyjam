@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
 \end
 
 \define get_published_date()
-<$list filter="[{!!published}is[blank]then{!!created}else{!!published}]"><$view field="title" format="date" template="DDth MMM, YYYY" /></$list>
+<$list filter="[{!!published}is[blank]then{!!created}else{!!published}]"><$view field="title" format="date" template="YYYY-0MM-0DD" /></$list>
 \end
 
 \define get_title()
