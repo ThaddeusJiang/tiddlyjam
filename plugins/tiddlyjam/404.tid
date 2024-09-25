@@ -5,16 +5,18 @@ name: Page not found
 published: 20200911141413491
 tags: $:/plugins/adithyab/tiddlyjam/page $:/plugins/adithyab/tiddlyjam/live $:/plugins/adithyab/tiddlyjam/internals
 title: 404
+renderer: $:/plugins/adithyab/tiddlyjam/renderer/blog/body
 type: text/vnd.tiddlywiki
 
-<section class="section mt-6">
-    <div class="container">
-        <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2">
-            <h1 class="title">Page not found</h1>
-            [img[404.png]]
-            <div>
-                <a href={{$:/plugins/adithyab/tiddlyjam/renderer/baseurl}}>Back home?</a>
-            </div>
-        </div>
+{{$:/plugins/adithyab/tiddlyjam/renderer/blog/header}}
+
+<div class="container">
+  <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4">
+
+[img[404.png]]
+<div>
+    <a href={{$:/plugins/adithyab/tiddlyjam/renderer/baseurl}}>Back home?</a>
+</div>
+
     </div>
-</section>
+</div>

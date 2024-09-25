@@ -3,53 +3,55 @@ creator: Adithya_
 description: A static generator for TiddlyWiki. Inspired by JamStack.
 modified: 20240708125530825
 modifier: Adithya_
-name: 
+name:
 published: 20210314001527357
 tags: $:/plugins/adithyab/tiddlyjam/page $:/plugins/adithyab/tiddlyjam/internals $:/plugins/adithyab/tiddlyjam/live
 title: index
 type: text/vnd.tiddlywiki
 
-<section class="section mt-6">
-  <div class="container">
-    <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2">
-      <h1 class="title" style="font-size: 400%;">{{$:/SiteTitle}}</h1>
-      <div class="subtitle">
-        {{$:/SiteSubtitle}}
-      </div>
-      <span class="buttons">
-        <a class="button is-link" href="https://thaddeusjiang.github.io/tiddlyjam/wiki">
-          <span class="icon is-small">
-            <i class="fas fa-cloud-download-alt"></i>
-          </span>
-          <span>Install</span>
-        </a>
-        <a class="button" href="https://github.com/ThaddeusJiang/tiddlyjam">
-          <span class="icon is-small">
-            <i class="fab fa-github"></i>
-          </span>
-          <span>GitHub</span>
-        </a>
-        <a class="button" href="https://github.com/ThaddeusJiang/tiddlyjam/discussions">
-          <span class="icon is-small">
-            <i class="fas fa-comments"></i>
-          </span>
-          <span>Forum</span>
-        </a>
-      </span>
-			<div>
-			<div class="shield shield-blue">
-            <span><span class="shield-label">~TiddlyWiki</span><span class="shield-status">5.1.22+</span></span>
-          </div><a href="https://thaddeusjiang.github.io/tiddlyjam/wiki"
-               target="_blank">
-          <div class="shield shield-purple">
-            <span class="shield-label">Release</span><span class="shield-status">{{$:/plugins/adithyab/tiddlyjam!!version}}</span>
-          </div></a>
-			</div>
-    </div>
+<div class="container">
+  <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2 my-4">
+
+<h1 class="title" style="font-size: 400%;">{{$:/SiteTitle}}</h1>
+<div class="subtitle">
+  {{$:/SiteSubtitle}}
+</div>
+
+<span class="buttons">
+  <a class="button is-link" href="https://thaddeusjiang.github.io/tiddlyjam/wiki">
+    <span class="icon is-small">
+      <i class="fas fa-cloud-download-alt"></i>
+    </span>
+    <span>Install</span>
+  </a>
+  <a class="button" href="https://github.com/ThaddeusJiang/tiddlyjam">
+    <span class="icon is-small">
+      <i class="fab fa-github"></i>
+    </span>
+    <span>GitHub</span>
+  </a>
+  <a class="button" href="https://github.com/ThaddeusJiang/tiddlyjam/discussions">
+    <span class="icon is-small">
+      <i class="fas fa-comments"></i>
+    </span>
+    <span>Forum</span>
+  </a>
+</span>
+
+<div>
+
+  <div class="shield shield-blue">
+        <span><span class="shield-label">~TiddlyWiki</span><span class="shield-status">5.1.22+</span></span>
+      </div><a href="https://thaddeusjiang.github.io/tiddlyjam/wiki"
+          target="_blank">
+      <div class="shield shield-purple">
+        <span class="shield-label">Release</span><span class="shield-status">{{$:/plugins/adithyab/tiddlyjam!!version}}</span>
+      </div></a>
   </div>
+
   <div>
     <div class="container mt-6">
-      <div class="column is-6-desktop is-offset-3-desktop is-8 is-offset-2">
+
         <$list filter="[tag[$:/plugins/adithyab/tiddlyjam/live]tag[blog]!sort[published]limit[2]]">
           {{||$:/plugins/adithyab/tiddlyjam/renderer/templates/blog_verbose}}
         </$list>
@@ -57,10 +59,13 @@ type: text/vnd.tiddlywiki
         <$list filter="[tag[$:/plugins/adithyab/tiddlyjam/live]tag[blog]!sort[published]rest[2]]">
           {{||$:/plugins/adithyab/tiddlyjam/renderer/templates/blog_compact}}
         </$list>
-      </div>
+
     </div>
   </div>
-</section>
+
 <style>
 {{$:/plugins/nico/shields/stylesheet}}
 </style>
+
+  </div>
+</div>
