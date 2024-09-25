@@ -9,14 +9,10 @@ type: text/vnd.tiddlywiki
 
 \whitespace trim
 
-<div>
-  <div class="block">
-    <h2 class="subtitle">
-      <$link>{{!!title}}</$link>
-    </h2>
-    <p>
-      <<get_description>>
-    </p>
-  </div>
+<div class="block">
+  <h2 class="is-size-4 has-text-weight-semibold"><$link>{{!!title}}</$link></h2>
+  <p class="mb-2">
+    <<get_description>>
+  </p>
 </div>
 <hr />

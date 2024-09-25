@@ -6,10 +6,9 @@ title: $:/plugins/adithyab/tiddlyjam/renderer/templates/blog_compact
 type: text/vnd.tiddlywiki
 
 \whitespace trim
-<div>
-  <div class="block">
-    <h2 class="title is-4"><$link>{{!!title}}</$link></h2>
-    <div class="subtitle is-6"><<get_published_date>></div>
-  </div>
+
+<div class="block">
+  <h2 class="is-size-4 has-text-weight-semibold"><$link>{{!!title}}</$link></h2>
+  <div class="is-size-6 mb-2"><<get_published_date>></div>
 </div>
 <hr/>
